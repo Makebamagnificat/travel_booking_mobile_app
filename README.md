@@ -1,6 +1,6 @@
 # Travel Booking App GROUP 8 (BTECH Computer SCience)
 
-This is a modern, cross-platform mobile and desktop application built with **Flutter**, designed to provide users with a seamless travel booking experience—from discovering top destinations and filtering categories to managing bookings, bookmarks, and user profiles.
+This is a modern, cross-platform mobile and desktop application built with **Flutter**, designed to provide users with a seamless travel booking experience from discovering top destinations and filtering categories to managing bookings, bookmarks, and user profiles.
 
 ---
 
